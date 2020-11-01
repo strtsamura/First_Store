@@ -1,0 +1,11 @@
+.carousel-item {
+    height: 700px;
+}
+/*.carousel-item*/
+
+.footer-top {
+    background-color: darkgray;
+    color: #fff;
+    border-bottom: 1px solid #222222;
+    padding: 40px 0 10px 0;
+}
